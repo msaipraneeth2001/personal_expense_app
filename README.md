@@ -9,7 +9,7 @@
  * [Android studio](https://developer.android.com/studio)
 
 ## Resources
-https://share.vidyard.com/watch/2rirfUMJnkuCC96mBg59UY?
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
